@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Fugann
-- 👀 I’m interested in we and playing vidéos games
+- 👀 I’m interested in web code and playing vidéos games
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to contact me: 
+- mail : zac.laurent1999@gmail.com
+- web site : https://##########
 
 <!---
 Fugann/Fugann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
