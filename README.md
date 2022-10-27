@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fugann
 - 👀 I’m interested in web code and playing vidéos games
-- 🌱 I’m currently learning JavaScript, HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Node JS
 - 📫 How to contact me: 
 - mail : zac.laurent1999@gmail.com
 - web site : https://##########
